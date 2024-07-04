@@ -1,0 +1,6 @@
+@BeaconInstituteBE_HostAddress = http://localhost:5073
+
+GET {{BeaconInstituteBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
