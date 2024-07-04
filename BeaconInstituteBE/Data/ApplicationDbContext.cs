@@ -7,6 +7,6 @@ namespace BeaconInstituteBE.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-        public DbSet<SalahTimes> salahTimes { get; set; }
+        public DbSet<SalahTimes> salah_times { get; set; }
     }
 }
