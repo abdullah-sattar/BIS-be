@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeaconInstituteBE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08d267480d49a23b980c65f87eb27fc3f70ba54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f8a5f132c197196da522641f331189ad9d5f9e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeaconInstituteBE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeaconInstituteBE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
